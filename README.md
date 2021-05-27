@@ -1,2 +1,2 @@
 # dicer
-digital fabric
+digital fabrication final project
